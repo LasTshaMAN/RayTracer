@@ -1,0 +1,81 @@
+[
+    {
+        "geometricShape": "firstLamp",
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+        },
+        "intensity": 1300000.0
+    },
+    
+    {
+        "geometricShape": "secondLamp",
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+        },
+        "intensity": 1300000.0
+    },
+     
+    {
+        "geometricShape": "thirdLamp",
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+        },
+        "intensity": 1300000.0
+    },
+
+    {
+        "geometricShape": "fourthLamp",
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+        },
+        "intensity": 1300000.0
+    },
+
+    {
+        "geometricShape": "fifthLamp",
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+        },
+        "intensity": 1300000.0
+    }
+
+    // {
+    //     "geometricShape": "sixthLamp",
+    //     "color": {
+    //         "red": 1.0,
+    //         "green": 1.0,
+    //         "blue": 1.0
+    //     },
+    //     "intensity": 1300000.0
+    // },
+    
+    // {
+    //     "geometricShape": "seventhLamp",
+    //     "color": {
+    //         "red": 1.0,
+    //         "green": 1.0,
+    //         "blue": 1.0
+    //     },
+    //     "intensity": 1300000.0
+    // }
+    
+    // {
+    //     "geometricShape": "eighthLamp",
+    //     "color": {
+    //         "red": 1.0,
+    //         "green": 1.0,
+    //         "blue": 1.0
+    //     },
+    //     "intensity": 1300000.0
+    // }
+]

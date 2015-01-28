@@ -1,0 +1,219 @@
+[
+    {
+        "name": "blueBall",
+        "className": "Sphere",
+        "radius": 1.0,
+        "material": {
+            "className": "Phong",
+            "diffuseColor": {
+                "red": 0.2,
+                "green": 0.2,
+                "blue": 0.7
+            },
+            "specularColor": {
+                "red": 1.0,
+                "green": 1.0,
+                "blue": 1.0
+            },
+            "shininess": 5.0
+        }
+    },
+
+    {
+        "name": "diskLightSource",
+        "className": "Disk",
+        "radius": 1.0,
+        "material": {
+            "className": "Emitting",
+            "color": {
+                "red": 1.0,
+                "green": 1.0,
+                "blue": 1.0
+            }
+        }
+    },
+
+    {
+        "name": "floor",
+        "className": "Rectangle",
+        "point": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "a": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+        },
+        "b": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "material": {
+            "className": "Lambertian",
+            "color": {
+                "red": 0.6,
+                "green": 0.6,
+                "blue": 0.3
+            }
+        }
+    },
+
+    {
+        "name": "ceiling",
+        "className": "Rectangle",
+        "point": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "a": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+        },
+        "b": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "material": {
+            "className": "Lambertian",
+            "color": {
+                "red": 0.7,
+                "green": 0.7,
+                "blue": 0.7
+            }
+        }
+    },
+
+    {
+        "name": "wall",
+        "className": "Rectangle",
+        "point": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "a": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+        },
+        "b": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "material": {
+            "className": "Lambertian",
+            "color": {
+                "red": 0.5,
+                "green": 0.5,
+                "blue": 0.5
+            }
+        }
+    },
+
+    {
+        "name": "mirror",
+        "className": "Rectangle",
+        "point": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "a": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+        },
+        "b": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "material": {
+            "className": "Reflective",
+            "reflectionCoefficient": {
+                "red": 1.0,
+                "green": 1.0,
+                "blue": 1.0
+            }
+        }
+    },
+
+    {
+        "name": "point",
+        "className": "Point",
+        "point": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "material": {
+            "className": "Emitting",
+            "color": {
+                "red": 1.0,
+                "green": 1.0,
+                "blue": 1.0
+            }
+        }
+    },
+
+    {
+        "name": "fireplace",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/highpolygonal/Fireplace.3ds"
+    },
+
+    {
+        "name": "knives",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/Knives.3ds"
+    },
+
+    {
+        "name": "barTable",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/BarTable.3ds"
+    },
+
+    {
+        "name": "teapot",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/lowpolygonal/Teapot.3ds"
+    },
+
+    {
+        "name": "bunny",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/lowpolygonal/bunny.3ds"
+    },
+
+    {
+        "name": "table",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/highpolygonal/Table.3ds"
+    },
+
+    {
+        "name": "seat",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/highpolygonal/Seat.3ds"
+    },
+
+    {
+        "name": "armchair",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/highpolygonal/Armchair.3ds"
+    },
+
+     {
+        "name": "chess",
+        "className": "AcceleratedMesh",
+        "meshFileName": "resources/models/highpolygonal/Chess.3ds"
+    }
+]

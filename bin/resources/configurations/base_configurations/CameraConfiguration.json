@@ -1,0 +1,28 @@
+{
+    "screenResolution": {
+        "width": 1280,
+        "height": 720
+    },
+
+    "raysPerPixelAmount": 1,
+
+    "eyePosition": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 1000.0
+    },
+
+    "lookAtPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1000.0
+    },
+
+    "upVector": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+
+    "resultingImageFileName": "result.png"
+}

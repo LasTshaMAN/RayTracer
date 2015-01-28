@@ -1,0 +1,617 @@
+[
+    {
+        "name": "chess",
+        "standartObjectName": "chess",
+        "transformations": {
+            "scale": {
+                "x": 500.0,
+                "y": 500.0,
+                "z": 500.0
+            },
+            "translate": {
+                "x": -325.0,
+                "y": 2900.0,
+                "z": 475.0
+            }
+        }
+    },
+
+    {
+        "name": "seat1",
+        "standartObjectName": "seat",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+            "rotate": [
+                {
+                    "angle": 45.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": -2400.0,
+                "y": 2300.0,
+                "z": 0.0
+            }
+        }
+    },
+
+    {
+        "name": "seat2",
+        "standartObjectName": "seat",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+            "rotate": [
+                {
+                    "angle": -45.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": -2500.0,
+                "y": 1600.0,
+                "z": 0.0
+            }
+        }
+    },
+
+    {
+        "name": "armchair1",
+        "standartObjectName": "armchair",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 250.0,
+                "z": 250.0
+            },
+            "rotate": [
+                {
+                    "angle": -90.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": 1500.0,
+                "y": 2800.0,
+                "z": 125.0
+            }
+        }
+    },
+
+    {
+        "name": "armchair2",
+        "standartObjectName": "armchair",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 250.0,
+                "z": 250.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": -1500.0,
+                "y": 3200.0,
+                "z": 125.0
+            }
+        }
+    },
+
+    {
+        "name": "table",
+        "standartObjectName": "table",
+        "transformations": {
+            "scale": {
+                "x": 250.0,
+                "y": 250.0,
+                "z": 250.0
+            },
+            "translate": {
+                "x": 0.0,
+                "y": 3000.0,
+                "z": 0.0
+            }
+        }
+    },
+
+    {
+        "name": "bunny",
+        "standartObjectName": "bunny",
+        "transformations": {
+            "scale": {
+                "x": 250.0,
+                "y": 250.0,
+                "z": 250.0
+            },
+            "translate": {
+                "x": 0.0,
+                "y": 2800.0,
+                "z": 0.0
+            }
+        }
+    },
+
+    {
+        "name": "teapot",
+        "standartObjectName": "teapot",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": -3000.0,
+                "y": 2000.0,
+                "z": 800.0
+            }
+        }
+    },
+
+    {
+        "name": "barTable",
+        "standartObjectName": "barTable",
+        "transformations": {
+            "scale": {
+                "x": 30.0,
+                "y": 30.0,
+                "z": 30.0
+            },
+            "translate": {
+                "x": -3000.0,
+                "y": 2000.0,
+                "z": 0.0
+            }
+        }
+    },
+
+    {
+        "name": "fireplace",
+        "standartObjectName": "fireplace",
+        "transformations": {
+            "scale": {
+                "x": 1200.0,
+                "y": 1200.0,
+                "z": 1200.0
+            },
+            "rotate": [
+                {
+                    "angle": 0.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "translate": {
+                "x": 0.0,
+                "y": 4000.0,
+                "z": 600.0
+            }
+        }
+    },
+
+    {
+        "name": "knives",
+        "standartObjectName": "knives",
+        "transformations": {
+            "scale": {
+                "x": 8.0,
+                "y": 8.0,
+                "z": 8.0
+            },
+            "rotate": [
+                {
+                    "angle": -90.0,
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 0.0,
+                "y": 4200.0,
+                "z": 1600.0
+            }
+        }
+    },
+
+    {
+        "name": "hugeMirror",
+        "standartObjectName": "mirror",
+        "transformations": {
+            "scale": {
+                "x": 2000.0,
+                "y": 3000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 3499.0,
+                "y": 1999.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    // {
+    //     "name": "blueBall",
+    //     "standartObjectName": "blueBall",
+    //     "transformations": {
+    //         "scale": {
+    //             "x": 600.0,
+    //             "y": 600.0,
+    //             "z": 600.0
+    //         },
+    //         "translate": {
+    //             "x": 3000.0,
+    //             "y": 3000.0,
+    //             "z": 900.0
+    //         }
+    //     }
+    // },
+
+    {
+        "name": "floor",
+        "standartObjectName": "floor",
+        "transformations": {
+            "scale": {
+                "x": 10000.0,
+                "y": 10000.0,
+                "z": 10000.0
+            },
+            "rotate": [
+                {
+                    "angle": 180.0,
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "ceiling",
+        "standartObjectName": "ceiling",
+        "transformations": {
+            "scale": {
+                "x": 10000.0,
+                "y": 10000.0,
+                "z": 10000.0
+            },
+            "translate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2999.0
+            }
+        }
+    },
+
+    {
+        "name": "firstWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 7000.0,
+                "y": 3000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": -90.0,
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 0.0,
+                "y": 4000.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    {
+        "name": "secondWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 3000.0,
+                "y": 5000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 3500.0,
+                "y": 1500.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    {
+        "name": "thirdWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 3000.0,
+                "y": 3000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 2000.0,
+                "y": -1000.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    {
+        "name": "fourthWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 3000.0,
+                "y": 3000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": 500.0,
+                "y": -2500.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    {
+        "name": "fifthWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 4000.0,
+                "y": 3000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": 90.0,
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": -1500.0,
+                "y": -4000.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    {
+        "name": "sixthWall",
+        "standartObjectName": "wall",
+        "transformations": {
+            "scale": {
+                "x": 3000.0,
+                "y": 8000.0,
+                "z": 1.0
+            },
+            "rotate": [
+                {
+                    "angle": -90.0,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            ],
+            "translate": {
+                "x": -3500.0,
+                "y": 0.0,
+                "z": 1500.0
+            }
+        }
+    },
+
+    // Point light sources
+
+    {
+        "name": "firstLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": 1500.0,
+                "y": 2500.0,
+                "z": 2900.0
+            }
+        }
+    },
+
+    {
+        "name": "secondLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": 1500.0,
+                "y": 500.0,
+                "z": 2900.0
+            }
+        }
+    },
+
+    {
+        "name": "thirdLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": -500.0,
+                "y": 2500.0,
+                "z": 2900.0
+            }
+        }
+    },
+
+    {
+        "name": "fourthLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": -500.0,
+                "y": 500.0,
+                "z": 2900.0
+            }
+        }
+    },
+
+    {
+        "name": "fifthLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": -500.0,
+                "y": -2500.0,
+                "z": 2900.0
+            }
+        }
+    },
+
+    // {
+    //     "name": "sixthLamp",
+    //     "standartObjectName": "point",
+    //     "transformations": {
+    //         "scale": {
+    //             "x": 200.0,
+    //             "y": 100.0,
+    //             "z": 1.0
+    //         },
+    //         "translate": {
+    //             "x": -2500.0,
+    //             "y": 2500.0,
+    //             "z": 2900.0
+    //         }
+    //     }
+    // },
+
+    {
+        "name": "seventhLamp",
+        "standartObjectName": "point",
+        "transformations": {
+            "scale": {
+                "x": 200.0,
+                "y": 100.0,
+                "z": 1.0
+            },
+            "translate": {
+                "x": -2500.0,
+                "y": 500.0,
+                "z": 2900.0
+            }
+        }
+    }
+
+    // {
+    //     "name": "eighthLamp",
+    //     "standartObjectName": "point",
+    //     "transformations": {
+    //         "scale": {
+    //             "x": 200.0,
+    //             "y": 100.0,
+    //             "z": 1.0
+    //         },
+    //         "translate": {
+    //             "x": -2500.0,
+    //             "y": -2500.0,
+    //             "z": 2900.0
+    //         }
+    //     }
+    // }
+]
